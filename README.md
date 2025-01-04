@@ -52,4 +52,4 @@ pip install pillow
 
 ## 作者信息
 
-- 一个苦逼的中国大学生罢了
+- 一个苦逼的中国大学生罢了LMEater1707
